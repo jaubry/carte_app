@@ -1,0 +1,159 @@
+{
+  "version": "2026-10-15",
+  "zone": "Guichen et environs (rayon d'environ 10 km)",
+  "categories": [
+    { "id": "francaise", "libelle": "Française", "couleur": "#1565C0" },
+    { "id": "creperie", "libelle": "Crêperie", "couleur": "#F9A825" },
+    { "id": "pizza", "libelle": "Pizza", "couleur": "#D84315" },
+    { "id": "italienne", "libelle": "Italienne", "couleur": "#2E7D32" },
+    { "id": "asiatique", "libelle": "Asiatique", "couleur": "#AD1457" },
+    { "id": "portugaise", "libelle": "Portugaise", "couleur": "#00838F" },
+    { "id": "americaine", "libelle": "Américaine (burger)", "couleur": "#6D4C41" },
+    { "id": "brasserie", "libelle": "Brasserie / bar", "couleur": "#8E24AA" }
+  ],
+  "points": [
+    {
+      "id": "001",
+      "nom": "A Tasca Breizh",
+      "categorie": "portugaise",
+      "adresse": "16 La Gare, 35580 Guichen",
+      "latitude": 47.9361475,
+      "longitude": -1.7609845,
+      "telephone": "+33 6 01 67 20 71",
+      "note": 4.9,
+      "description": null
+    },
+    {
+      "id": "002",
+      "nom": "L'Auberge des Landes",
+      "categorie": "francaise",
+      "adresse": "Rue Blaise Pascal, 35580 Guichen",
+      "latitude": 47.9602739,
+      "longitude": -1.8138236,
+      "telephone": "+33 2 99 52 08 40",
+      "note": 4.3,
+      "description": null
+    },
+    {
+      "id": "003",
+      "nom": "Le Marin'Boël",
+      "categorie": "francaise",
+      "adresse": "18 Le Boël, 35580 Guichen",
+      "latitude": 47.9917934,
+      "longitude": -1.756565,
+      "telephone": "+33 2 99 42 25 69",
+      "note": 4.2,
+      "description": null
+    },
+    {
+      "id": "004",
+      "nom": "La Grange",
+      "categorie": "americaine",
+      "adresse": "5 bis Rue Madeleine Brès, 35580 Guichen",
+      "latitude": 47.9736117,
+      "longitude": -1.8125235,
+      "telephone": "+33 2 99 03 90 26",
+      "note": 4.5,
+      "description": null
+    },
+    {
+      "id": "005",
+      "nom": "Gargantua",
+      "categorie": "italienne",
+      "adresse": "39 Rue Jacques Blouet, 35580 Guichen",
+      "latitude": 47.969414,
+      "longitude": -1.805741,
+      "telephone": "+33 2 99 57 32 24",
+      "note": 4.5,
+      "description": null
+    },
+    {
+      "id": "006",
+      "nom": "La Bella Regina",
+      "categorie": "pizza",
+      "adresse": "48 Rue du Général Leclerc, 35580 Guichen",
+      "latitude": 47.9670816,
+      "longitude": -1.7966734,
+      "telephone": "+33 2 99 57 33 54",
+      "note": 4.6,
+      "description": null
+    },
+    {
+      "id": "007",
+      "nom": "Domino's Pizza Guichen",
+      "categorie": "pizza",
+      "adresse": "19 Bd Victor Edet, 35580 Guichen",
+      "latitude": 47.9682495,
+      "longitude": -1.7984798,
+      "telephone": "+33 2 23 05 55 55",
+      "note": 3.9,
+      "description": null
+    },
+    {
+      "id": "008",
+      "nom": "La Cale de Rean",
+      "categorie": "creperie",
+      "adresse": "81 Rue de Redon, 35580 Guichen",
+      "latitude": 48.0013461,
+      "longitude": -1.7756743,
+      "telephone": "+33 2 99 42 23 34",
+      "note": 4.7,
+      "description": null
+    },
+    {
+      "id": "009",
+      "nom": "Crêperie du Moulin",
+      "categorie": "creperie",
+      "adresse": "22 Le Boël, 35580 Guichen",
+      "latitude": 47.9927493,
+      "longitude": -1.7557336,
+      "telephone": "+33 2 99 53 73 70",
+      "note": 4.4,
+      "description": null
+    },
+    {
+      "id": "010",
+      "nom": "Crêperie Au Cottage",
+      "categorie": "creperie",
+      "adresse": "18 Place de l'Église, 35890 Bourg-des-Comptes",
+      "latitude": 47.9289134,
+      "longitude": -1.7388002,
+      "telephone": "+33 2 23 61 08 93",
+      "note": 4.7,
+      "description": null
+    },
+    {
+      "id": "011",
+      "nom": "CHEZ AI",
+      "categorie": "asiatique",
+      "adresse": "Centre commercial La Prairie, 6 Rue Maréchal de Lattre de Tassigny, 35580 Guichen",
+      "latitude": 47.9717703,
+      "longitude": -1.795457,
+      "telephone": "+33 2 99 57 32 60",
+      "note": 4.7,
+      "description": null
+    },
+    {
+      "id": "012",
+      "nom": "CHOQUE Microbrasserie",
+      "categorie": "brasserie",
+      "adresse": "74 Rue de Redon, 35580 Guichen",
+      "latitude": 48.0017051,
+      "longitude": -1.7771389,
+      "telephone": "+33 2 90 08 68 62",
+      "note": 4.9,
+      "description": null
+    },
+    {
+      "id": "013",
+      "nom": "L'ardoise des Filles",
+      "categorie": "francaise",
+      "adresse": "18 Rue de la Monnaie, 35580 Guignen",
+      "latitude": 47.9204284,
+      "longitude": -1.8623181,
+      "telephone": "+33 6 38 91 44 05",
+      "note": 4.7,
+      "description": null
+    }
+  ]
+}
